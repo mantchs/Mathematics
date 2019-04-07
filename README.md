@@ -16,3 +16,5 @@
 
 好了，废话不多说，直接开始每章的主要内容和自己的理解。
 
+## 目录
+- [第一章：文字和语言 vs 数字和信息](https://github.com/mantchs/Mathematics/blob/master/Content/%E7%AC%AC%E4%B8%80%E7%AB%A0.md)
